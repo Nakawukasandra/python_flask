@@ -1,0 +1,31 @@
+#What is Flask?
+It's a light weight and extensive web frame work for python.
+Note : It is built on ginger tool which acts as its templete tool.
+
+#Features for flask:
+its used for integrated unite testing.
+Helps in Restful request dispatching.
+It helps in development server and debugger.(sanity-friendly).
+Its used in unicode support.
+
+#Merits:
+It is easy to use(Simple)
+It is flexible.
+It is a light weight(it is independent)
+Active community in providing guidence.
+
+#Demerits of Flask
+Micro-frame work complexity.
+Limited built in features.
+Limited built in tools.
+Scalability.(it might not provide all the necessary tools.)
+
+#Applications for Flask
+Web Applications.
+Restful Apl Development
+Prototypying
+Real-time Application.
+
+#Prerequisites
+Python
+Visual Studio Code
